@@ -4,11 +4,11 @@ In this project, a system was made to develop a sophisticated traffic light cont
 
 - Inputs:
     - Switches for pedestrian control.
-    - Resistors with different values.
+    - Automatic Light Switching.
 - Outputs:
-    - 7 Segments Display.
-    - RGB LEDs.
-    - Buzzer.
+    - LCD.
+    - RGB LEDs for Traffic Lights.
+    - Buzzer for pedestrian crossing.
 
 System Design:
 
