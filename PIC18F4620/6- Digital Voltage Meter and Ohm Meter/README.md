@@ -7,7 +7,8 @@ In this project, a system was made to measure voltage and resistance using a mic
     - Resistors with different values.
 - Outputs:
     - 7 Segments Display.
-    - RGB LEDs. 
+    - RGB LEDs.
+    - Buzzer.
 
 Final output: 
 
