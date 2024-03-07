@@ -1,4 +1,4 @@
-                                                                     //Lab 7 part5: the full design of a Traffic Light
+                                                                     //the full design of a Traffic Light
 
 #include <stdio.h>                                                   //all libraries needed 
 #include <stdlib.h> 
