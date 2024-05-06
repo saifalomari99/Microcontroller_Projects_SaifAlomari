@@ -18,3 +18,16 @@ System Design:
 Final circuit output: 
 
 <img src='./pictures/circuit_07.jpg' width='400'>
+
+
+Board: Custom Development Board from Professor
+
+Board Reference: 
+
+Microcontroller: PIC18F4620
+
+IDE: MPLAB X IDE
+
+Serial Terminal Software: TeraTerm
+
+Schematic: 
