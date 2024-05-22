@@ -2,7 +2,7 @@
 
 This Repository is to showcase Saif Alomari's Microcontroller projects.
 
-This Repository has a wide range of high level Microcontroller projects (in the PIC18F folder): 
+This Repository has a wide range of high-level Microcontroller projects (access all in the PIC18F4620 folder): 
   - 1- sadasd
   - 2- asdasd
   - 3- aasdas
