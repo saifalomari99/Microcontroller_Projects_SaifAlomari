@@ -19,4 +19,4 @@ The circuit:
 
 The schematics: 
 
-<img src='./images/schematics_01.png' width='400'>
+<img src='./images/schematics_01.png' width='600'>
