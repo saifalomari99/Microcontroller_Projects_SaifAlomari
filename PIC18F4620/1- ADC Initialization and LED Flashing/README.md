@@ -11,3 +11,12 @@ The second part focuses on initializing the UART for serial communication. It se
 Part 3: ADC Voltage Reading and UART Communication
 
 In the final part, the lab combines ADC and UART functionalities. It reads analog voltages from multiple ADC channels (AN0 to AN4) and converts the ADC values to corresponding voltages. These voltage values are then printed via the UART. This part demonstrates the integration of ADC for analog input measurement and UART for data communication, highlighting the practical application of reading sensor values and transmitting them to a host system for monitoring or further processing.
+
+
+The circuit: 
+
+<img src='./images/circuit_01.jpg' width='400'>
+
+The schematics: 
+
+<img src='./images/schematics.png' width='400'>
