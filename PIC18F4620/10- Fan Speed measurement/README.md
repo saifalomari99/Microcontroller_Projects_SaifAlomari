@@ -20,8 +20,8 @@ Fan Control:
 
 The circuit: 
 
-<img src='./images/circuit_02.jpg' width='400'>
+<img src='./images/circuit_10.jpg' width='400'>
 
 The schematics: 
 
-<img src='./images/schematics_02.png' width='600'>
+<img src='./images/schematics_10.png' width='600'>
